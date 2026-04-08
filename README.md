@@ -16,4 +16,4 @@ https://editor.p5js.org/Josefina130/sketches/CaU0_R4sP
 
 <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/05e89700-ff1c-47fe-878b-66478f31b1c8" />
 
-<img width="1915" height="993" alt="image" src="https://github.com/user-attachments/assets/912ffc68-a820-4e12-a7dc-b5d2dcef1509" />
+<img width="1910" height="988" alt="image" src="https://github.com/user-attachments/assets/b5b9a3b9-dd6d-4b0a-b860-83ee5a4153e8" />
